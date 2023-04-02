@@ -1,6 +1,7 @@
 {
-  "appId": "org.wexond.wexond",
-  "productName": "Wexond",
+  "appId": "org.pythia.Odyssey",
+  "productName": "Odyssey",
+  "copyright": "Copyright © 2023 Pythia Corporation",
   "nsis": {
     "include": "static/installer.nsh"
   },
@@ -35,6 +36,10 @@
       {
         "target": "zip",
         "arch": ["x64", "ia32"]
+      },
+      {
+        "target": "appx",
+        "arch": ["x64", "ia32"]
       }
     ]
   },
@@ -44,7 +49,7 @@
   "fileAssociations": [
     {
       "name": "Document",
-      "description": "Wexond",
+      "description": "Odyssey Document",
       "role": "Viewer",
       "ext": "html"
     }
