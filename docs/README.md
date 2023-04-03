@@ -1,6 +1,9 @@
-# Documentation
+# Documentation for Odyssey
 
-## Table of contents
+TODO: Migrate all this to GitHub Wiki's and post it on Odyssey's Website.
 
-1. [Keyboard shortcuts](keyboard-shortcuts.md)
-2. [Extensions](extensions.md)
+## Table of Contents
+
+TODO: Add the sections to this area.
+
+##  

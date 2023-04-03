@@ -26,7 +26,8 @@ export class AppWindow {
       backgroundColor: '#ffffff',
       webPreferences: {
         plugins: true,
-        // TODO: enable sandbox, contextIsolation and disable nodeIntegration to improve security
+        // TODO: enable sandbox, contextIsolation and disable nodeIntegration to improve security (or at least figure it out)
+        sandbox: false,
         nodeIntegration: true,
         contextIsolation: false,
         javascript: true,

@@ -2,11 +2,11 @@ import { DEFAULT_SETTINGS } from './settings';
 
 export const DIRECTORIES = ['adblock', 'extensions', 'storage'];
 
-export const WEBUI_PROTOCOL = 'wexond';
+export const WEBUI_PROTOCOL = 'odyssey';
 
-export const ERROR_PROTOCOL = 'wexond-error';
+export const ERROR_PROTOCOL = 'odyssey-error';
 
-export const NETWORK_ERROR_HOST = 'network-error';
+export const NETWORK_ERROR_HOST = 'critical-error';
 
 export const WEBUI_BASE_URL =
   process.env.NODE_ENV === 'development'

@@ -112,9 +112,3 @@ More commands can be found in [`package.json`](package.json).
 # Documentation
 
 Guides and the API reference are located in [`docs`](docs) directory.
-
-# License
-
-#### Every usage of this project resources (code, graphics etc.) must be consulted with its author (sentialx@gmail.com)
-
-By sending a Pull Request, you agree that your code may be relicensed or sublicensed.
