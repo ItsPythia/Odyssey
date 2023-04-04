@@ -23,7 +23,7 @@ export const registerProtocol = (session: Electron.Session) => {
     (request, callback: any) => {
       const parsed = parse(request.url);
 
-      if (parsed.hostname === 'network-error') {
+      if (parsed.hostname === 'critical-error') {
         return callback({
           path: join(__dirname, '../static/pages/', `network-error.html`),
         });
