@@ -1,6 +1,6 @@
 {
-    "appId": "org.wexond.wexond-nightly",
-    "productName": "Wexond Nightly",
+    "appId": "org.pythia.odyssey",
+    "productName": "Odyssey",
     "copyright": "Copyright © 2023 Pythia Corporation",
     "nsis": {
         "include": "static/installer.nsh"
