@@ -1,6 +1,6 @@
 {
     "name": "odyssey",
-    "version": "1.0.0-nightly.1",
+    "version": "1.0.0",
     "sideEffects": false,
     "description": "Extensible, fast and innovative web browser with material UI.",
     "keywords": [
