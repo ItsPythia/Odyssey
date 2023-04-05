@@ -16,7 +16,7 @@
     "author": "Pythia Corporation <qsmith@pythia.cf>",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wexond/desktop-nightly.git"
+        "url": "git+https://github.com/Pythia-Corp/Odyssey.git"
     },
     "bugs": {
         "url": "https://github.com/Pythia-Corp/Odyssey/issues"
